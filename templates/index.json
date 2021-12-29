@@ -104,8 +104,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false,
+            "product": "moedas-banhadas-a-ouro-bitcoin-bit-btc-moeda-litecoin-ripple-ethereum-shiba-cardano-iota-fil-moeda-wow-doge-metel-criptomoeda",
+            "second_image": true,
             "image_padding": false,
             "secondary_background": false
           }
@@ -113,7 +113,7 @@
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
             "image_padding": false,
             "color_scheme": "background-1"
           }
@@ -145,7 +145,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
+            "title": "Presentes",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -154,7 +155,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/hard-work-pays-off.jpg",
+            "title": "Decoração",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -163,7 +165,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/ripe-red-strawberries-in-a-white-bowl.jpg",
+            "title": "Frutas",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -176,13 +179,13 @@
         "column3"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Dieta recomendada",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "Conheça nossas dietas",
+        "button_link": "shopify:\/\/pages\/contact",
         "swipe_on_mobile": false
       }
     }
