@@ -31,15 +31,15 @@
     "continue_shopping": "Continue shopping",
     "pagination": {
       "label": "Pagination",
-      "page": "Page {{ number }}",
+      "page": "Página {{ number }}",
       "next": "Next page",
       "previous": "Previous page"
     },
     "search": {
-      "search": "Search"
+      "search": "Buscar"
     },
     "cart": {
-      "view": "View my cart ({{ count }})",
+      "view": "Ver meu carrinho ({{ count }})",
       "item_added": "Item added to your cart"
     },
     "share": {
@@ -49,7 +49,7 @@
       "success_message": "Link copied to clipboard"
     },
     "slider": {
-      "of": "of",
+      "of": "de",
       "next_slide": "Slide right",
       "previous_slide": "Slide left"
     }
