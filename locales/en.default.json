@@ -101,10 +101,10 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Add to cart",
-      "description": "Description",
+      "add_to_cart": "Adicionar ao carrinho",
+      "description": "Descripção",
       "on_sale": "Sale",
-      "product_variants": "Product variants",
+      "product_variants": "Variantes de produto",
       "media": {
         "gallery_viewer": "Gallery Viewer",
         "load_image": "Load image {{ index }} in gallery view",
@@ -116,7 +116,7 @@
         "play_video": "Play video"
       },
       "quantity": {
-        "label": "Quantity",
+        "label": "Quantidade",
         "input_label": "Quantity for {{ product }}",
         "increase": "Increase quantity for {{ product }}",
         "decrease": "Decrease quantity for {{ product }}"
