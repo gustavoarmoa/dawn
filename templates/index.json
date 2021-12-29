@@ -27,6 +27,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/purchased-favorite-coffee.jpg",
+        "image_2": "shopify:\/\/shop_images\/hard-work-pays-off.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
