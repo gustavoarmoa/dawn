@@ -16,7 +16,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Bem-vindo à nossa loja",
               "color_scheme": "background-1",
               "link": ""
             }
