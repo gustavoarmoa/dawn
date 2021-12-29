@@ -21,7 +21,7 @@
             "type": "announcement",
             "settings": {
               "text": "Bem-vindo à nossa loja",
-              "color_scheme": "accent-2",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
