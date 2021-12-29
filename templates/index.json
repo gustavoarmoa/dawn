@@ -52,13 +52,13 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Nossos produtos são frescos e cumpren todas as normas sanitárias<\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Ver produtos",
             "button_link": "",
             "button_style_secondary": false
           }
